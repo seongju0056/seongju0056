@@ -2,7 +2,8 @@
 
 ### Who Am I
 
-- 🎓 AI major in Computer Science and Engineering at Pusan National University
+- 🎯 I’m working to become a developer who understands the underlying problem, critically evaluates AI-generated results, and takes responsibility for the quality and impact of what I build.
+- 🎓 AI major in Computer Science and Engineering
 - 🌱 Learning `Python`, `FastAPI`, `Next.js`, and `TypeScript` through team projects
 - 🤖 Interested in backend development and AI applications, particularly RAG chatbots and document processing
 
@@ -23,6 +24,7 @@
 
 ### What I Like
 
+- 🍜 Ramen
 - 📚 Books
 - 🇯🇵 Japanese
 - ♟️ Chess
