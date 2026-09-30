@@ -39,3 +39,7 @@ Learning and using through team projects.
 - 🇯🇵 Japanese
 - ♟️ Chess
 - 🎮 Games
+
+### Contact
+
+[![Gmail: seongju0056@gmail.com](https://img.shields.io/badge/seongju0056%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seongju0056@gmail.com)
