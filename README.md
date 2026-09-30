@@ -1,5 +1,7 @@
 # SeongJu Kang 😉
 
+[![Gmail: seongju0056@gmail.com](https://img.shields.io/badge/seongju0056%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seongju0056@gmail.com)
+
 ### Who Am I
 
 - 🎯 I’m working to become a developer who understands the underlying problem, critically evaluates AI-generated results, and takes responsibility for the quality and impact of what I build.
@@ -39,7 +41,3 @@ Learning and using through team projects.
 - 🇯🇵 Japanese
 - ♟️ Chess
 - 🎮 Games
-
-### Contact
-
-[![Gmail: seongju0056@gmail.com](https://img.shields.io/badge/seongju0056%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seongju0056@gmail.com)
