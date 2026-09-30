@@ -4,7 +4,10 @@
 
 - 🎯 I’m working to become a developer who understands the underlying problem, critically evaluates AI-generated results, and takes responsibility for the quality and impact of what I build.
 - 🎓 AI major in Computer Science and Engineering
-- 🌱 Learning `Python`, `FastAPI`, `Next.js`, and `TypeScript` through team projects
+- 🌱 Learning through team projects
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 - 🤖 Interested in backend development and AI applications, particularly RAG chatbots and document processing
 
 ### Education
